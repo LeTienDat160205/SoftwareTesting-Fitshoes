@@ -1,3 +1,7 @@
+# SoftwareTesting-Fitshoes
+
+Sản phẩm không phải dự án gốc, chỉ được sử dụng cho mục đích kiểm thử
+
 # FitShoes
 
 FitShoes is a modern, full-stack e-commerce application for footwear, built with a React frontend and an Express/MongoDB backend. It features a premium UI inspired by top brands, a comprehensive admin dashboard, advanced product filtering, per-size inventory management, ZaloPay payment integration, and an AI-powered shopping assistant.
